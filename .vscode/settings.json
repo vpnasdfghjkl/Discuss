@@ -1,0 +1,24 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/woosh/my_project/devel_isolated/my_tf/lib/python3/dist-packages",
+        "/home/woosh/my_project/devel_isolated/my_ocr/lib/python3/dist-packages",
+        "/home/woosh/my_project/devel_isolated/find_object_2d/lib/python3/dist-packages",
+        "/home/woosh/my_project/devel_isolated/astra_camera/lib/python3/dist-packages",
+        "/home/woosh/my_project/devel_isolated/aruco_ros/lib/python3/dist-packages",
+        "/home/woosh/my_project/devel_isolated/aruco_msgs/lib/python3/dist-packages",
+        "/home/woosh/my_project/devel_isolated/apriltag_ros/lib/python3/dist-packages",
+        "/home/woosh/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/woosh/my_project/devel_isolated/my_tf/lib/python3/dist-packages",
+        "/home/woosh/my_project/devel_isolated/my_ocr/lib/python3/dist-packages",
+        "/home/woosh/my_project/devel_isolated/find_object_2d/lib/python3/dist-packages",
+        "/home/woosh/my_project/devel_isolated/astra_camera/lib/python3/dist-packages",
+        "/home/woosh/my_project/devel_isolated/aruco_ros/lib/python3/dist-packages",
+        "/home/woosh/my_project/devel_isolated/aruco_msgs/lib/python3/dist-packages",
+        "/home/woosh/my_project/devel_isolated/apriltag_ros/lib/python3/dist-packages",
+        "/home/woosh/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}

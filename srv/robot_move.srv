@@ -1,0 +1,5 @@
+demo/pose Pose
+float64 speed
+bool shift
+---
+bool success

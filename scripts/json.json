@@ -1,0 +1,19 @@
+{
+    "action1":{
+        "action":{
+            "class":"loosen",
+            "object":"loosen1"
+        },
+        "param":{
+            "position":"arm1robot01",
+            "x":"-138.629",
+            "y":"357.543",
+            "z":"140.000",
+            "rx":"-179.764",
+            "ry":"-0.222",
+            "rz":"45.291",
+            "speed":"10.0"
+        }
+    }
+}
+

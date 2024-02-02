@@ -1,0 +1,41 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/woosh/my_project/devel_isolated/my_tf/include/**",
+        "/home/woosh/my_project/devel_isolated/my_ocr/include/**",
+        "/home/woosh/my_project/devel_isolated/find_object_2d/include/**",
+        "/home/woosh/my_project/devel_isolated/astra_camera/include/**",
+        "/home/woosh/my_project/devel_isolated/aruco_ros/include/**",
+        "/home/woosh/my_project/devel_isolated/aruco_msgs/include/**",
+        "/home/woosh/my_project/devel_isolated/apriltag_ros/include/**",
+        "/home/woosh/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/woosh/my_project/devel_isolated/apriltag/include/**",
+        "/opt/woosh/include/**",
+        "/home/woosh/my_project/src/apriltag/apriltag_ros/apriltag_ros/include/**",
+        "/home/woosh/my_project/src/aruco_ros/aruco/include/**",
+        "/home/woosh/my_project/src/aruco_ros/aruco_ros/include/**",
+        "/home/woosh/my_project/src/ros_astra_camera/include/**",
+        "/home/woosh/catkin_ws/src/robot_vision/caffe_box_detect/include/**",
+        "/home/woosh/catkin_ws/src/CR_ROS-master/dobot_bringup/include/**",
+        "/home/woosh/my_project/src/find-object/include/**",
+        "/home/woosh/catkin_ws/src/learning_service/include/**",
+        "/home/woosh/catkin_ws/src/learning_tf/include/**",
+        "/home/woosh/my_project/src/my_ocr/include/**",
+        "/home/woosh/my_project/src/usb_cam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

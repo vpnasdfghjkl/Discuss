@@ -1,0 +1,4 @@
+<launch>
+    <node name="my_robot" pkg="demo" type="robot.py" output="screen">
+    </node>
+</launch>

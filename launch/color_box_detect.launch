@@ -1,0 +1,4 @@
+<launch>
+    <node name="my_robot" pkg="demo" type="color_det.py" output="screen">
+    </node>
+</launch>

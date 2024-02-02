@@ -1,0 +1,953 @@
+[ 97 112  98] [142 255 255]
+15360.0
+fail to Detected Mask for blue:
+[ 0 53 76] [ 10 255 230]
+15360.0
+0.0
+0.0
+0.0
+35.0
+0.0
+0.0
+0.0
+0.5
+0.0
+0.0
+2.0
+0.5
+7.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+23973.0
+Detected Mask for red:
+cb error OpenCV(4.2.0) ../modules/core/src/arithm.cpp:1757: error: (-209:Sizes of input arguments do not match) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function 'inRange'
+
+[ 97 112  98] [142 255 255]
+15360.0
+fail to Detected Mask for blue:
+[ 0 53 76] [ 10 255 230]
+15360.0
+0.5
+1.5
+0.0
+0.0
+0.0
+0.0
+0.0
+30.5
+0.0
+0.0
+4.5
+0.0
+0.0
+0.0
+0.0
+2.0
+0.0
+3.5
+0.0
+0.0
+2.0
+0.0
+0.0
+1.0
+0.0
+0.0
+23916.5
+Detected Mask for red:
+cb error OpenCV(4.2.0) ../modules/core/src/arithm.cpp:1757: error: (-209:Sizes of input arguments do not match) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function 'inRange'
+
+[ 97 112  98] [142 255 255]
+15360.0
+fail to Detected Mask for blue:
+[ 0 53 76] [ 10 255 230]
+15360.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+34.5
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+7.0
+1.0
+7.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+24013.5
+Detected Mask for red:
+cb error OpenCV(4.2.0) ../modules/core/src/arithm.cpp:1757: error: (-209:Sizes of input arguments do not match) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function 'inRange'
+
+[ 97 112  98] [142 255 255]
+15360.0
+fail to Detected Mask for blue:
+[ 0 53 76] [ 10 255 230]
+15360.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.5
+1.5
+0.0
+15.0
+0.0
+7.5
+7.0
+0.0
+0.0
+0.0
+4.0
+0.0
+0.0
+0.0
+0.0
+1.5
+0.0
+0.0
+23978.5
+Detected Mask for red:
+cb error OpenCV(4.2.0) ../modules/core/src/arithm.cpp:1757: error: (-209:Sizes of input arguments do not match) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function 'inRange'
+
+[ 97 112  98] [142 255 255]
+15360.0
+fail to Detected Mask for blue:
+[ 0 53 76] [ 10 255 230]
+15360.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.5
+0.5
+1.0
+15.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+23964.5
+Detected Mask for red:
+cb error OpenCV(4.2.0) ../modules/core/src/arithm.cpp:1757: error: (-209:Sizes of input arguments do not match) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function 'inRange'
+
+[ 97 112  98] [142 255 255]
+15360.0
+fail to Detected Mask for blue:
+[ 0 53 76] [ 10 255 230]
+15360.0
+0.0
+0.0
+0.0
+0.5
+0.0
+0.0
+0.5
+5.0
+0.0
+0.0
+5.0
+0.0
+0.0
+1.5
+0.0
+0.0
+0.0
+0.0
+14.5
+0.0
+7.0
+0.0
+0.0
+0.0
+0.0
+0.0
+23896.0
+Detected Mask for red:
+cb error OpenCV(4.2.0) ../modules/core/src/arithm.cpp:1757: error: (-209:Sizes of input arguments do not match) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function 'inRange'
+
+[ 97 112  98] [142 255 255]
+15360.0
+fail to Detected Mask for blue:
+[ 0 53 76] [ 10 255 230]
+15360.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.5
+0.5
+0.0
+0.0
+0.0
+34.5
+9.0
+7.0
+0.0
+0.5
+0.0
+0.0
+0.0
+0.5
+0.0
+0.0
+0.0
+0.0
+0.0
+23986.0
+Detected Mask for red:
+cb error OpenCV(4.2.0) ../modules/core/src/arithm.cpp:1757: error: (-209:Sizes of input arguments do not match) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function 'inRange'
+
+[ 97 112  98] [142 255 255]
+15360.0
+fail to Detected Mask for blue:
+[ 0 53 76] [ 10 255 230]
+15360.0
+0.0
+1.0
+0.0
+0.0
+0.0
+1.0
+4.5
+0.0
+1.0
+0.0
+0.0
+3.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+23991.0
+Detected Mask for red:
+cb error OpenCV(4.2.0) ../modules/core/src/arithm.cpp:1757: error: (-209:Sizes of input arguments do not match) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function 'inRange'
+
+[ 97 112  98] [142 255 255]
+15360.0
+fail to Detected Mask for blue:
+[ 0 53 76] [ 10 255 230]
+15360.0
+0.0
+0.0
+0.0
+0.0
+0.0
+2.0
+0.0
+0.0
+4.5
+0.0
+37.5
+0.0
+4.5
+0.0
+0.0
+0.0
+0.0
+1.5
+0.0
+2.0
+0.0
+0.0
+0.5
+0.0
+0.0
+0.0
+24009.5
+Detected Mask for red:
+cb error OpenCV(4.2.0) ../modules/core/src/arithm.cpp:1757: error: (-209:Sizes of input arguments do not match) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function 'inRange'
+
+[ 97 112  98] [142 255 255]
+15360.0
+fail to Detected Mask for blue:
+[ 0 53 76] [ 10 255 230]
+15360.0
+0.0
+0.0
+0.0
+0.5
+0.0
+0.0
+0.0
+0.5
+0.0
+0.0
+3.5
+0.0
+2.0
+0.0
+0.0
+0.0
+0.0
+4.0
+0.0
+0.0
+0.0
+0.0
+4.5
+0.0
+0.0
+0.0
+0.0
+0.0
+24033.0
+Detected Mask for red:
+cb error OpenCV(4.2.0) ../modules/core/src/arithm.cpp:1757: error: (-209:Sizes of input arguments do not match) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function 'inRange'
+
+[ 97 112  98] [142 255 255]
+15360.0
+fail to Detected Mask for blue:
+[ 0 53 76] [ 10 255 230]
+15360.0
+2.5
+0.0
+1.0
+1.0
+3.0
+0.0
+0.0
+0.0
+0.0
+0.0
+21.0
+0.0
+2.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.5
+8.5
+0.0
+3.0
+0.0
+0.0
+0.0
+0.0
+0.0
+24004.0
+Detected Mask for red:
+cb error OpenCV(4.2.0) ../modules/core/src/arithm.cpp:1757: error: (-209:Sizes of input arguments do not match) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function 'inRange'
+
+[ 97 112  98] [142 255 255]
+15360.0
+fail to Detected Mask for blue:
+[ 0 53 76] [ 10 255 230]
+15360.0
+0.0
+1.0
+0.0
+0.0
+0.0
+3.5
+0.0
+0.0
+1.5
+0.0
+0.0
+0.0
+3.0
+0.0
+4.5
+0.0
+0.0
+0.0
+10.5
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+24046.5
+Detected Mask for red:
+cb error OpenCV(4.2.0) ../modules/core/src/arithm.cpp:1757: error: (-209:Sizes of input arguments do not match) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function 'inRange'
+
+[ 97 112  98] [142 255 255]
+15360.0
+fail to Detected Mask for blue:
+[ 0 53 76] [ 10 255 230]
+15360.0
+0.0
+0.5
+0.0
+0.0
+0.0
+0.5
+0.0
+0.0
+3.0
+0.0
+14.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.5
+0.0
+2.0
+0.0
+2.5
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+23981.5
+Detected Mask for red:
+cb error OpenCV(4.2.0) ../modules/core/src/arithm.cpp:1757: error: (-209:Sizes of input arguments do not match) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function 'inRange'
+
+[ 97 112  98] [142 255 255]
+15360.0
+fail to Detected Mask for blue:
+[ 0 53 76] [ 10 255 230]
+15360.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+30.0
+0.0
+0.0
+7.0
+0.0
+0.0
+0.0
+0.0
+1.5
+0.0
+7.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+24050.5
+Detected Mask for red:
+cb error OpenCV(4.2.0) ../modules/core/src/arithm.cpp:1757: error: (-209:Sizes of input arguments do not match) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function 'inRange'
+
+[ 97 112  98] [142 255 255]
+15360.0
+fail to Detected Mask for blue:
+[ 0 53 76] [ 10 255 230]
+15360.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.5
+3.5
+0.0
+0.0
+3.0
+0.5
+1.5
+0.0
+3.0
+0.0
+0.0
+0.0
+0.0
+17.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+23976.0
+Detected Mask for red:
+cb error OpenCV(4.2.0) ../modules/core/src/arithm.cpp:1757: error: (-209:Sizes of input arguments do not match) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function 'inRange'
+
+[ 97 112  98] [142 255 255]
+15360.0
+fail to Detected Mask for blue:
+[ 0 53 76] [ 10 255 230]
+15360.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+42.5
+0.0
+2.0
+7.0
+0.0
+0.0
+14.5
+0.0
+0.0
+23937.0
+Detected Mask for red:
+cb error OpenCV(4.2.0) ../modules/core/src/arithm.cpp:1757: error: (-209:Sizes of input arguments do not match) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function 'inRange'
+
+[ 97 112  98] [142 255 255]
+15360.0
+fail to Detected Mask for blue:
+[ 0 53 76] [ 10 255 230]
+15360.0
+0.0
+2.5
+0.0
+0.0
+0.0
+0.0
+6.0
+0.0
+0.0
+2.5
+1.0
+0.0
+7.0
+1.0
+0.0
+0.0
+0.0
+1.5
+0.0
+0.0
+0.5
+0.0
+0.0
+0.0
+0.0
+23938.0
+Detected Mask for red:
+cb error OpenCV(4.2.0) ../modules/core/src/arithm.cpp:1757: error: (-209:Sizes of input arguments do not match) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function 'inRange'
+
+[ 97 112  98] [142 255 255]
+15360.0
+fail to Detected Mask for blue:
+[ 0 53 76] [ 10 255 230]
+15360.0
+0.0
+0.0
+0.0
+0.5
+0.0
+2.0
+0.0
+15.0
+0.0
+0.0
+7.5
+0.0
+0.0
+0.0
+1.5
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+24001.5
+Detected Mask for red:
+cb error OpenCV(4.2.0) ../modules/core/src/arithm.cpp:1757: error: (-209:Sizes of input arguments do not match) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function 'inRange'
+
+[ 97 112  98] [142 255 255]
+15360.0
+fail to Detected Mask for blue:
+[ 0 53 76] [ 10 255 230]
+15360.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+2.0
+14.0
+1.0
+0.0
+2.0
+0.0
+0.0
+0.0
+0.5
+0.0
+0.0
+1.0
+0.0
+1.0
+0.0
+0.0
+1.0
+24019.5
+Detected Mask for red:
+cb error OpenCV(4.2.0) ../modules/core/src/arithm.cpp:1757: error: (-209:Sizes of input arguments do not match) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function 'inRange'
+
+[ 97 112  98] [142 255 255]
+15360.0
+fail to Detected Mask for blue:
+[ 0 53 76] [ 10 255 230]
+15360.0
+0.0
+0.0
+1.0
+0.5
+0.5
+1.0
+0.0
+0.0
+5.5
+0.5
+4.0
+0.0
+0.0
+0.0
+7.0
+0.0
+0.0
+1.5
+0.0
+0.5
+0.0
+0.0
+7.5
+0.0
+23963.0
+Detected Mask for red:
+cb error OpenCV(4.2.0) ../modules/core/src/arithm.cpp:1757: error: (-209:Sizes of input arguments do not match) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function 'inRange'
+
+[ 97 112  98] [142 255 255]
+15360.0
+fail to Detected Mask for blue:
+[ 0 53 76] [ 10 255 230]
+15360.0
+0.0
+0.0
+0.5
+2.0
+0.0
+0.0
+0.5
+15.0
+0.0
+0.0
+2.0
+0.0
+1.5
+0.0
+0.0
+1.5
+0.5
+0.0
+0.0
+0.0
+0.0
+24038.5
+Detected Mask for red:
+cb error OpenCV(4.2.0) ../modules/core/src/arithm.cpp:1757: error: (-209:Sizes of input arguments do not match) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function 'inRange'
+
+[ 97 112  98] [142 255 255]
+15360.0
+fail to Detected Mask for blue:
+[ 0 53 76] [ 10 255 230]
+15360.0
+0.0
+0.0
+0.0
+0.0
+0.0
+4.5
+0.0
+0.0
+0.0
+0.0
+0.0
+3.5
+25.5
+0.0
+0.0
+0.0
+0.0
+0.0
+4.0
+0.0
+3.5
+0.0
+0.0
+1.0
+0.0
+23955.5
+Detected Mask for red:
+cb error OpenCV(4.2.0) ../modules/core/src/arithm.cpp:1757: error: (-209:Sizes of input arguments do not match) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function 'inRange'
+
+[ 97 112  98] [142 255 255]
+15360.0
+fail to Detected Mask for blue:
+[ 0 53 76] [ 10 255 230]
+15360.0
+0.0
+0.0
+0.0
+1.5
+0.0
+0.0
+0.0
+4.0
+0.0
+0.0
+14.0
+0.0
+0.0
+0.0
+3.0
+0.0
+0.0
+4.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+23951.5
+Detected Mask for red:
+cb error OpenCV(4.2.0) ../modules/core/src/arithm.cpp:1757: error: (-209:Sizes of input arguments do not match) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function 'inRange'
+
+[ 97 112  98] [142 255 255]
+15360.0
+fail to Detected Mask for blue:
+[ 0 53 76] [ 10 255 230]
+15360.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+12.0
+0.0
+0.0
+0.0
+7.0
+0.0
+7.0
+3.0
+2.0
+9.5
+0.0
+0.0
+0.0
+0.0
+0.0
+23986.5
+Detected Mask for red:
+cb error OpenCV(4.2.0) ../modules/core/src/arithm.cpp:1757: error: (-209:Sizes of input arguments do not match) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function 'inRange'
+
+[ 97 112  98] [142 255 255]
+15360.0
+fail to Detected Mask for blue:
+[ 0 53 76] [ 10 255 230]
+15360.0
+0.0
+0.0
+1.5
+0.0
+1.5
+0.0
+0.0
+0.0
+0.0
+30.0
+0.0
+3.5
+0.0
+4.0
+0.0
+0.0
+0.0
+0.5
+0.0
+0.5
+0.0
+0.0
+24014.0
+Detected Mask for red:
+cb error OpenCV(4.2.0) ../modules/core/src/arithm.cpp:1757: error: (-209:Sizes of input arguments do not match) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function 'inRange'
+
+[ 97 112  98] [142 255 255]
+15360.0
+fail to Detected Mask for blue:
+[ 0 53 76] [ 10 255 230]
+15360.0
+0.0
+0.5
+0.0
+0.0
+5.5
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.5
+0.0
+26.5
+0.0
+0.0
+7.0
+0.0
+4.5
+7.0
+0.0
+1.5
+4.0
+0.5
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+2.0
+0.0
+0.0
+0.0
+0.0
+0.0
+23910.0
+Detected Mask for red:
+cb error OpenCV(4.2.0) ../modules/core/src/arithm.cpp:1757: error: (-209:Sizes of input arguments do not match) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function 'inRange'
+
+[ 97 112  98] [142 255 255]
+15360.0
+fail to Detected Mask for blue:
+[ 0 53 76] [ 10 255 230]
+15360.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+4.0
+0.0
+0.0
+8.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+7.0
+0.0
+0.0
+0.0
+0.0
+0.0
+24039.0
+Detected Mask for red:
+cb error OpenCV(4.2.0) ../modules/core/src/arithm.cpp:1757: error: (-209:Sizes of input arguments do not match) The lower boundary is neither an array of the same size and same type as src, nor a scalar in function 'inRange'
+
+[ 97 112  98] [142 255 255]
+15360.0
+fail to Detected Mask for blue:
+[ 0 53 76] [ 10 255 230]
+^Z
+[1]+  Stopped                 python3 /home/woosh/catkin_ws/src/demo/scripts/moveRobot_http_server_finish_arm1_1_and_arm1_3.py
+woosh@R20230831113810:~/catkin_ws/src/demo$ 

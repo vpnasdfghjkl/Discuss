@@ -1,0 +1,939 @@
+HOME
+end go home
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========grab go inflection points......
+going to grab ready point from rmf......
+already arrive at start point !!!!!! 
+adjusting grab rotate...... 
+waiting1...... 
+start to det color
+rotate angle
+adjusting camera  to center...... 
+success: True
+success: True
+0.352
+in shift_camera_1_1:res success: True
+rx: 0.0
+ry: 0.0
+rz: 0.252
+r: 0.0
+p: 0.0
+y: 0.0
+in shift_arm:res success: True
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========grab back inflection points......
+[297.787, -325.616, 670.058, -89.181, -0.486, -137.505, 50.0]
+here1
+here2
+going to standby point......
+HOME
+already at standby point......
+grab DONE ^^
+========loosen go inflection points......
+in loosen_arm1_3_1_go
+going to pre_loosen point......
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========loosen back inflection points......
+in loosen_arm1_3_1_back
+already drop it
+going to standby point......
+HOME
+already at standby point......
+loosen DONE ^^
+###################in grab
+{'action': {'class': 'grab', 'object': 'grab_arm1-2-1'}, 'param': {'position': 'arm1-2-1', 'x': '328.419', 'y': '-335.855', 'z': '260.583', 'rx': '-90.137', 'ry': '1.156', 'rz': '-133.816', 'speed': '50.0'}, 'test': 0}
+{'class': 'grab', 'object': 'grab_arm1-2-1'}
+arm1-2-1
+################### arm1-2-1 {'position': 'arm1-2-1', 'x': '328.419', 'y': '-335.855', 'z': '260.583', 'rx': '-90.137', 'ry': '1.156', 'rz': '-133.816', 'speed': '50.0'}
+start arm_move service for grab
+demo start
+going to standby point......
+HOME
+end go home
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========grab go inflection points......
+in grab_arm1_2_1_go
+going to grab ready point from rmf......
+already arrive at start point !!!!!! 
+adjusting grab rotate...... 
+waiting1...... 
+rotate angle
+adjusting camera  to center...... 
+success: True
+success: True
+0.0
+in shift_camera_1_1:res success: True
+rx: 0.0
+ry: 0.0
+rz: 0.25
+r: 0.0
+p: 0.0
+y: 0.0
+in shift_arm:res success: True
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========grab back inflection points......
+[328.419, -335.855, 260.583, -90.137, 1.156, -133.816, 50.0]
+in grab_arm1_2_1_back
+^Z
+[1]+  Stopped                 python3 moveRobot_http_server_copy_copy.py
+woosh@R20230831113810:~/catkin_ws/src/demo/scripts$ sudo netstat -tulpn | grep 7070
+[sudo] password for woosh: 
+tcp        0      0 192.168.1.226:7070      0.0.0.0:*               LISTEN      202830/python3      
+woosh@R20230831113810:~/catkin_ws/src/demo/scripts$ kill -9 202830
+woosh@R20230831113810:~/catkin_ws/src/demo/scripts$ python3 moveRobot_http_server_copy_copy.py 
+[1]+  Killed                  python3 moveRobot_http_server_copy_copy.py
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x01', b'\x80', b'\xf1']
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+here1
+here2
+here3
+goto start point
+ * Serving Flask app 'moveRobot_http_server_copy_copy'
+ * Debug mode: off
+###################in grab
+{'action': {'class': 'grab', 'object': 'grab1'}, 'param': {'position': 'arm1-1-1', 'x': '297.787', 'y': '-325.616', 'z': '670.058', 'rx': '-89.181', 'ry': '-0.486', 'rz': '-137.505', 'speed': '50.0'}, 'test': 0}
+{'class': 'grab', 'object': 'grab1'}
+arm1-1-1
+################### arm1-1-1 {'position': 'arm1-1-1', 'x': '297.787', 'y': '-325.616', 'z': '670.058', 'rx': '-89.181', 'ry': '-0.486', 'rz': '-137.505', 'speed': '50.0'}
+start arm_move service for grab
+demo start
+going to standby point......
+HOME
+end go home
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========grab go inflection points......
+going to grab ready point from rmf......
+already arrive at start point !!!!!! 
+adjusting grab rotate...... 
+waiting1...... 
+start to det color
+rotate angle
+adjusting camera  to center...... 
+success: True
+success: True
+0.336
+in shift_camera_1_1:res success: True
+rx: 0.0
+ry: 0.0
+rz: 0.23600000000000002
+r: 0.0
+p: 0.0
+y: 0.0
+in shift_arm:res success: True
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========grab back inflection points......
+[297.787, -325.616, 670.058, -89.181, -0.486, -137.505, 50.0]
+here1
+here2
+going to standby point......
+HOME
+already at standby point......
+grab DONE ^^
+========loosen go inflection points......
+going to pre_loosen point......
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========loosen back inflection points......
+already drop it
+going to standby point......
+HOME
+already at standby point......
+loosen DONE ^^
+###################in grab
+{'action': {'class': 'grab', 'object': 'grab_arm1-2-1'}, 'param': {'position': 'arm1-2-1', 'x': '328.419', 'y': '-335.855', 'z': '260.583', 'rx': '-90.137', 'ry': '1.156', 'rz': '-133.816', 'speed': '50.0'}, 'test': 0}
+{'class': 'grab', 'object': 'grab_arm1-2-1'}
+arm1-2-1
+################### arm1-2-1 {'position': 'arm1-2-1', 'x': '328.419', 'y': '-335.855', 'z': '260.583', 'rx': '-90.137', 'ry': '1.156', 'rz': '-133.816', 'speed': '50.0'}
+start arm_move service for grab
+demo start
+going to standby point......
+HOME
+end go home
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========grab go inflection points......
+in grab_arm1_2_1_go
+going to grab ready point from rmf......
+already arrive at start point !!!!!! 
+adjusting grab rotate...... 
+waiting1...... 
+rotate angle
+adjusting camera  to center...... 
+success: True
+success: True
+0.0
+in shift_camera_1_1:res success: True
+rx: 0.0
+ry: 0.0
+rz: 0.25
+r: 0.0
+p: 0.0
+y: 0.0
+in shift_arm:res success: True
+^Z
+[1]+  Stopped                 python3 moveRobot_http_server_copy_copy.py
+woosh@R20230831113810:~/catkin_ws/src/demo/scripts$ sudo netstat -tulpn | grep 7070
+tcp        0      0 192.168.1.226:7070      0.0.0.0:*               LISTEN      205847/python3      
+woosh@R20230831113810:~/catkin_ws/src/demo/scripts$ kill -9 205847
+woosh@R20230831113810:~/catkin_ws/src/demo/scripts$ python3 moveRobot_http_server_copy_copy.py 
+[1]+  Killed                  python3 moveRobot_http_server_copy_copy.py
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x01', b'\x80', b'\xf1']
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+here1
+here2
+here3
+goto start point
+ * Serving Flask app 'moveRobot_http_server_copy_copy'
+ * Debug mode: off
+###################in grab
+{'action': {'class': 'grab', 'object': 'grab_arm1-2-1'}, 'param': {'position': 'arm1-2-1', 'x': '314.688', 'y': '-320.659', 'z': '269.277', 'rx': '-91.024', 'ry': '1.375', 'rz': '-136.039', 'speed': '50.0'}, 'test': 0}
+{'class': 'grab', 'object': 'grab_arm1-2-1'}
+arm1-2-1
+################### arm1-2-1 {'position': 'arm1-2-1', 'x': '314.688', 'y': '-320.659', 'z': '269.277', 'rx': '-91.024', 'ry': '1.375', 'rz': '-136.039', 'speed': '50.0'}
+start arm_move service for grab
+demo start
+going to standby point......
+HOME
+end go home
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========grab go inflection points......
+in grab_arm1_2_1_go
+going to grab ready point from rmf......
+already arrive at start point !!!!!! 
+adjusting grab rotate...... 
+waiting1...... 
+start to det color
+rotate angle
+adjusting camera  to center...... 
+success: True
+success: True
+0.0
+in shift_camera_1_1:res success: True
+rx: 0.0
+ry: 0.0
+rz: 0.25
+r: 0.0
+p: 0.0
+y: 0.0
+in shift_arm:res success: True
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========grab back inflection points......
+[314.688, -320.659, 269.277, -91.024, 1.375, -136.039, 50.0]
+in grab_arm1_2_1_back
+in grab_arm1_2_1_back inflection_2
+end grab_arm1_2_1_back inflection_2
+going to standby point......
+HOME
+already at standby point......
+grab DONE ^^
+^Z
+[1]+  Stopped                 python3 moveRobot_http_server_copy_copy.py
+woosh@R20230831113810:~/catkin_ws/src/demo/scripts$ sudo netstat -tulpn | grep 7070
+tcp        0      0 192.168.1.226:7070      0.0.0.0:*               LISTEN      209955/python3      
+woosh@R20230831113810:~/catkin_ws/src/demo/scripts$ kill -9 209955
+woosh@R20230831113810:~/catkin_ws/src/demo/scripts$ python3 moveRobot_http_server_copy_copy.py 
+[1]+  Killed                  python3 moveRobot_http_server_copy_copy.py
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x01', b'\x80', b'\xf1']
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+here1
+here2
+here3
+goto start point
+ * Serving Flask app 'moveRobot_http_server_copy_copy'
+ * Debug mode: off
+###################in grab
+{'action': {'class': 'grab', 'object': 'grab_arm1-2-1'}, 'param': {'position': 'arm1-2-1', 'x': '314.688', 'y': '-320.659', 'z': '269.277', 'rx': '-91.024', 'ry': '1.375', 'rz': '-136.039', 'speed': '50.0'}, 'test': 0}
+{'class': 'grab', 'object': 'grab_arm1-2-1'}
+arm1-2-1
+################### arm1-2-1 {'position': 'arm1-2-1', 'x': '314.688', 'y': '-320.659', 'z': '269.277', 'rx': '-91.024', 'ry': '1.375', 'rz': '-136.039', 'speed': '50.0'}
+start arm_move service for grab
+demo start
+going to standby point......
+HOME
+end go home
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========grab go inflection points......
+in grab_arm1_2_1_go
+going to grab ready point from rmf......
+already arrive at start point !!!!!! 
+adjusting grab rotate...... 
+waiting1...... 
+start to det color
+rotate angle
+adjusting camera  to center...... 
+success: True
+success: True
+0.0
+in shift_camera_1_1:res success: True
+rx: 0.0
+ry: 0.0
+rz: 0.25
+r: 0.0
+p: 0.0
+y: 0.0
+in shift_arm:res success: True
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========grab back inflection points......
+[314.688, -320.659, 269.277, -91.024, 1.375, -136.039, 50.0]
+in grab_arm1_2_1_back
+in grab_arm1_2_1_back inflection_2
+^[[A^Z
+[1]+  Stopped                 python3 moveRobot_http_server_copy_copy.py
+woosh@R20230831113810:~/catkin_ws/src/demo/scripts$ sudo netstat -tulpn | grep 7070
+tcp        0      0 192.168.1.226:7070      0.0.0.0:*               LISTEN      211516/python3      
+woosh@R20230831113810:~/catkin_ws/src/demo/scripts$ kill -9 211516
+woosh@R20230831113810:~/catkin_ws/src/demo/scripts$ python3 moveRobot_http_server_copy_copy.py 
+[1]+  Killed                  python3 moveRobot_http_server_copy_copy.py
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x01', b'\x80', b'\xf1']
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+here1
+here2
+here3
+goto start point
+ * Serving Flask app 'moveRobot_http_server_copy_copy'
+ * Debug mode: off
+###################in grab
+{'action': {'class': 'grab', 'object': 'grab_arm1-2-1'}, 'param': {'position': 'arm1-2-1', 'x': '314.688', 'y': '-320.659', 'z': '269.277', 'rx': '-91.024', 'ry': '1.375', 'rz': '-136.039', 'speed': '50.0'}, 'test': 0}
+{'class': 'grab', 'object': 'grab_arm1-2-1'}
+arm1-2-1
+################### arm1-2-1 {'position': 'arm1-2-1', 'x': '314.688', 'y': '-320.659', 'z': '269.277', 'rx': '-91.024', 'ry': '1.375', 'rz': '-136.039', 'speed': '50.0'}
+start arm_move service for grab
+demo start
+going to standby point......
+HOME
+^Z
+[1]+  Stopped                 python3 moveRobot_http_server_copy_copy.py
+woosh@R20230831113810:~/catkin_ws/src/demo/scripts$ sudo netstat -tulpn | grep 7070
+tcp        0      0 192.168.1.226:7070      0.0.0.0:*               LISTEN      213204/python3      
+woosh@R20230831113810:~/catkin_ws/src/demo/scripts$ kill -9 213204
+woosh@R20230831113810:~/catkin_ws/src/demo/scripts$ python3 moveRobot_http_server_copy_copy.py 
+[1]+  Killed                  python3 moveRobot_http_server_copy_copy.py
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x01', b'\x80', b'\xf1']
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+here1
+here2
+here3
+goto start point
+ * Serving Flask app 'moveRobot_http_server_copy_copy'
+ * Debug mode: off
+###################in grab
+{'action': {'class': 'grab', 'object': 'grab_arm1-2-1'}, 'param': {'position': 'arm1-2-1', 'x': '314.688', 'y': '-320.659', 'z': '269.277', 'rx': '-91.024', 'ry': '1.375', 'rz': '-136.039', 'speed': '50.0'}, 'test': 0}
+{'class': 'grab', 'object': 'grab_arm1-2-1'}
+arm1-2-1
+################### arm1-2-1 {'position': 'arm1-2-1', 'x': '314.688', 'y': '-320.659', 'z': '269.277', 'rx': '-91.024', 'ry': '1.375', 'rz': '-136.039', 'speed': '50.0'}
+start arm_move service for grab
+demo start
+going to standby point......
+HOME
+end go home
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========grab go inflection points......
+in grab_arm1_2_1_go
+going to grab ready point from rmf......
+already arrive at start point !!!!!! 
+adjusting grab rotate...... 
+waiting1...... 
+start to det color
+rotate angle
+adjusting camera  to center...... 
+success: True
+success: True
+0.0
+in shift_camera_1_1:res success: True
+rx: 0.0
+ry: 0.0
+rz: 0.25
+r: 0.0
+p: 0.0
+y: 0.0
+in shift_arm:res success: True
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========grab back inflection points......
+[314.688, -320.659, 269.277, -91.024, 1.375, -136.039, 50.0]
+in grab_arm1_2_1_back
+in grab_arm1_2_1_back inflection_2
+end grab_arm1_2_1_back inflection_2
+going to standby point......
+HOME
+already at standby point......
+grab DONE ^^
+^Z
+[1]+  Stopped                 python3 moveRobot_http_server_copy_copy.py
+woosh@R20230831113810:~/catkin_ws/src/demo/scripts$ sudo netstat -tulpn | grep 7070
+tcp        0      0 192.168.1.226:7070      0.0.0.0:*               LISTEN      214947/python3      
+woosh@R20230831113810:~/catkin_ws/src/demo/scripts$ kill -9 214947
+woosh@R20230831113810:~/catkin_ws/src/demo/scripts$ python3 moveRobot_http_server_copy_copy.py 
+[1]+  Killed                  python3 moveRobot_http_server_copy_copy.py
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x01', b'\x80', b'\xf1']
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+here1
+here2
+here3
+goto start point
+ * Serving Flask app 'moveRobot_http_server_copy_copy'
+ * Debug mode: off
+###################in grab
+{'action': {'class': 'grab', 'object': 'grab1'}, 'param': {'position': 'arm1-1-1', 'x': '297.787', 'y': '-325.616', 'z': '670.058', 'rx': '-89.181', 'ry': '-0.486', 'rz': '-137.505', 'speed': '50.0'}, 'test': 0}
+{'class': 'grab', 'object': 'grab1'}
+arm1-1-1
+################### arm1-1-1 {'position': 'arm1-1-1', 'x': '297.787', 'y': '-325.616', 'z': '670.058', 'rx': '-89.181', 'ry': '-0.486', 'rz': '-137.505', 'speed': '50.0'}
+start arm_move service for grab
+demo start
+going to standby point......
+HOME
+end go home
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========grab go inflection points......
+going to grab ready point from rmf......
+already arrive at start point !!!!!! 
+adjusting grab rotate...... 
+waiting1...... 
+start to det color
+rotate angle
+adjusting camera  to center...... 
+success: True
+success: True
+0.337
+in shift_camera_1_1:res success: True
+rx: 0.0
+ry: 0.0
+rz: 0.23700000000000002
+r: 0.0
+p: 0.0
+y: 0.0
+in shift_arm:res success: True
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========grab back inflection points......
+[297.787, -325.616, 670.058, -89.181, -0.486, -137.505, 50.0]
+here1
+here2
+going to standby point......
+HOME
+already at standby point......
+grab DONE ^^
+========loosen go inflection points......
+in loosen_arm1_3_1_go
+going to pre_loosen point......
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========loosen back inflection points......
+in loosen_arm1_3_1_back
+already drop it
+going to standby point......
+HOME
+already at standby point......
+loosen DONE ^^
+###################in grab
+{'action': {'class': 'grab', 'object': 'grab2'}, 'param': {'position': 'arm1-3-1', 'x': '292.358', 'y': '-354.835', 'z': '61.116', 'rx': '-123.169', 'ry': '-1.433', 'rz': '-137.049', 'speed': '50.0'}, 'test': 0}
+{'class': 'grab', 'object': 'grab2'}
+arm1-3-1
+################### arm1-3-1 {'position': 'arm1-3-1', 'x': '292.358', 'y': '-354.835', 'z': '61.116', 'rx': '-123.169', 'ry': '-1.433', 'rz': '-137.049', 'speed': '50.0'}
+start arm_move service for grab
+demo start
+going to standby point......
+HOME
+end go home
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========grab go inflection points......
+going to grab ready point from rmf......
+already arrive at start point !!!!!! 
+adjusting grab rotate...... 
+waiting1...... 
+rotate angle
+adjusting camera  to center...... 
+success: True
+success: True
+0.342
+in shift_camera_1_1:res success: True
+rx: 0.0
+ry: 0.0
+rz: 0.24200000000000002
+r: 0.0
+p: 0.0
+y: 0.0
+in shift_arm:res success: True
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========grab back inflection points......
+in grab_arm1_3_1_back
+in grab_arm1_3_1_back_mid
+in grab_arm1_3_1_back done
+going to standby point......
+HOME
+already at standby point......
+grab DONE ^^
+========loosen go inflection points......
+going to pre_loosen point......
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========loosen back inflection points......
+already drop it
+going to standby point......
+HOME
+already at standby point......
+loosen DONE ^^
+###################in grab
+{'action': {'class': 'grab', 'object': 'grab_arm1-2-1'}, 'param': {'position': 'arm1-2-1', 'x': '314.688', 'y': '-320.659', 'z': '269.277', 'rx': '-91.024', 'ry': '1.375', 'rz': '-136.039', 'speed': '50.0'}, 'test': 0}
+{'class': 'grab', 'object': 'grab_arm1-2-1'}
+arm1-2-1
+################### arm1-2-1 {'position': 'arm1-2-1', 'x': '314.688', 'y': '-320.659', 'z': '269.277', 'rx': '-91.024', 'ry': '1.375', 'rz': '-136.039', 'speed': '50.0'}
+start arm_move service for grab
+demo start
+going to standby point......
+HOME
+end go home
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========grab go inflection points......
+in grab_arm1_2_1_go
+going to grab ready point from rmf......
+already arrive at start point !!!!!! 
+adjusting grab rotate...... 
+waiting1...... 
+rotate angle
+adjusting camera  to center...... 
+success: True
+success: True
+0.0
+in shift_camera_1_1:res success: True
+rx: 0.0
+ry: 0.0
+rz: 0.25
+r: 0.0
+p: 0.0
+y: 0.0
+in shift_arm:res success: True
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========grab back inflection points......
+[314.688, -320.659, 269.277, -91.024, 1.375, -136.039, 50.0]
+in grab_arm1_2_1_back
+in grab_arm1_2_1_back inflection_2
+end grab_arm1_2_1_back inflection_2
+going to standby point......
+HOME
+already at standby point......
+grab DONE ^^
+^Z
+[1]+  Stopped                 python3 moveRobot_http_server_copy_copy.py
+woosh@R20230831113810:~/catkin_ws/src/demo/scripts$ sudo netstat -tulpn | grep 7070
+tcp        0      0 192.168.1.226:7070      0.0.0.0:*               LISTEN      216382/python3      
+woosh@R20230831113810:~/catkin_ws/src/demo/scripts$ kill -9 216382
+woosh@R20230831113810:~/catkin_ws/src/demo/scripts$ python3 moveRobot_http_server_copy_copy.py 
+[1]+  Killed                  python3 moveRobot_http_server_copy_copy.py
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x01', b'\x80', b'\xf1']
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+here1
+here2
+here3
+goto start point
+ * Serving Flask app 'moveRobot_http_server_copy_copy'
+ * Debug mode: off
+###################in grab
+{'action': {'class': 'grab', 'object': 'grab_arm1-2-1'}, 'param': {'position': 'arm1-2-1', 'x': '314.688', 'y': '-320.659', 'z': '269.277', 'rx': '-91.024', 'ry': '1.375', 'rz': '-136.039', 'speed': '50.0'}, 'test': 0}
+{'class': 'grab', 'object': 'grab_arm1-2-1'}
+arm1-2-1
+################### arm1-2-1 {'position': 'arm1-2-1', 'x': '314.688', 'y': '-320.659', 'z': '269.277', 'rx': '-91.024', 'ry': '1.375', 'rz': '-136.039', 'speed': '50.0'}
+start arm_move service for grab
+demo start
+going to standby point......
+HOME
+end go home
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========grab go inflection points......
+in grab_arm1_2_1_go
+going to grab ready point from rmf......
+already arrive at start point !!!!!! 
+adjusting grab rotate...... 
+waiting1...... 
+start to det color
+rotate angle
+adjusting camera  to center...... 
+success: True
+success: True
+obj_depth= 0.0
+in shift_camera_1_1:res success: True
+rx: 0.0
+ry: 0.0
+rz: 0.25
+r: 0.0
+p: 0.0
+y: 0.0
+in shift_arm:res success: True
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========grab back inflection points......
+[314.688, -320.659, 269.277, -91.024, 1.375, -136.039, 50.0]
+in grab_arm1_2_1_back
+in grab_arm1_2_1_back inflection_2
+end grab_arm1_2_1_back inflection_2
+going to standby point......
+HOME
+already at standby point......
+grab DONE ^^
+^Z
+[1]+  Stopped                 python3 moveRobot_http_server_copy_copy.py
+woosh@R20230831113810:~/catkin_ws/src/demo/scripts$ sudo netstat -tulpn | grep 7070
+tcp        0      0 192.168.1.226:7070      0.0.0.0:*               LISTEN      225101/python3      
+woosh@R20230831113810:~/catkin_ws/src/demo/scripts$ kill -9 225101
+woosh@R20230831113810:~/catkin_ws/src/demo/scripts$ python3 moveRobot_http_server_copy_copy.py 
+[1]+  Killed                  python3 moveRobot_http_server_copy_copy.py
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x01', b'\x80', b'\xf1']
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+here1
+here2
+here3
+goto start point
+ * Serving Flask app 'moveRobot_http_server_copy_copy'
+ * Debug mode: off
+###################in grab
+{'action': {'class': 'grab', 'object': 'grab_arm1-2-1'}, 'param': {'position': 'arm1-2-1', 'x': '347.039', 'y': '-297.937', 'z': '216.877', 'rx': '-87.716', 'ry': '2.82', 'rz': '-136.969', 'speed': '50.0'}, 'test': 0}
+{'class': 'grab', 'object': 'grab_arm1-2-1'}
+arm1-2-1
+################### arm1-2-1 {'position': 'arm1-2-1', 'x': '347.039', 'y': '-297.937', 'z': '216.877', 'rx': '-87.716', 'ry': '2.82', 'rz': '-136.969', 'speed': '50.0'}
+start arm_move service for grab
+demo start
+going to standby point......
+HOME
+end go home
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========grab go inflection points......
+in grab_arm1_2_1_go
+going to grab ready point from rmf......
+already arrive at start point !!!!!! 
+adjusting grab rotate...... 
+waiting1...... 
+start to det color
+rotate angle
+adjusting camera  to center...... 
+^Z
+[1]+  Stopped                 python3 moveRobot_http_server_copy_copy.py
+woosh@R20230831113810:~/catkin_ws/src/demo/scripts$ sudo netstat -tulpn | grep 7070
+tcp        0      0 192.168.1.226:7070      0.0.0.0:*               LISTEN      228165/python3      
+woosh@R20230831113810:~/catkin_ws/src/demo/scripts$ kill -9 228165
+woosh@R20230831113810:~/catkin_ws/src/demo/scripts$ 
+[1]+  Killed                  python3 moveRobot_http_server_copy_copy.py
+woosh@R20230831113810:~/catkin_ws/src/demo/scripts$ 
+woosh@R20230831113810:~/catkin_ws/src/demo/scripts$ python3 moveRobot_http_server_copy_copy.py 
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x01', b'\x80', b'\xf1']
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+here1
+here2
+here3
+goto start point
+ * Serving Flask app 'moveRobot_http_server_copy_copy'
+ * Debug mode: off
+###################in grab
+{'action': {'class': 'grab', 'object': 'grab_arm1-2-1'}, 'param': {'position': 'arm1-2-1', 'x': '347.039', 'y': '-297.937', 'z': '216.877', 'rx': '-87.716', 'ry': '2.82', 'rz': '-136.969', 'speed': '50.0'}, 'test': 0}
+{'class': 'grab', 'object': 'grab_arm1-2-1'}
+arm1-2-1
+################### arm1-2-1 {'position': 'arm1-2-1', 'x': '347.039', 'y': '-297.937', 'z': '216.877', 'rx': '-87.716', 'ry': '2.82', 'rz': '-136.969', 'speed': '50.0'}
+start arm_move service for grab
+demo start
+going to standby point......
+HOME
+end go home
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========grab go inflection points......
+in grab_arm1_2_1_go
+going to grab ready point from rmf......
+already arrive at start point !!!!!! 
+adjusting grab rotate...... 
+waiting1...... 
+start to det color
+rotate angle
+adjusting camera  to center...... 
+success: True
+success: True
+obj_depth= 0.0
+in shift_camera_1_1:res success: True
+rx: 0.0
+ry: 0.0
+rz: 0.25
+r: 0.0
+p: 0.0
+y: 0.0
+in shift_arm:res success: True
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========grab back inflection points......
+[347.039, -297.937, 216.877, -87.716, 2.82, -136.969, 50.0]
+in grab_arm1_2_1_back
+in grab_arm1_2_1_back inflection_2
+end grab_arm1_2_1_back inflection_2
+going to standby point......
+HOME
+already at standby point......
+grab DONE ^^
+========loosen go inflection points......
+in loosen_arm1_2_1_go
+end loosen_arm1_2_1_go
+going to pre_loosen point......
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========loosen back inflection points......
+in loosen_arm1_2_1_back
+end loosen_arm1_2_1_back
+already drop it
+going to standby point......
+HOME
+already at standby point......
+loosen DONE ^^
+###################in grab
+{'action': {'class': 'grab', 'object': 'grab1'}, 'param': {'position': 'arm1-1-1', 'x': '297.787', 'y': '-325.616', 'z': '670.058', 'rx': '-89.181', 'ry': '-0.486', 'rz': '-137.505', 'speed': '50.0'}, 'test': 0}
+{'class': 'grab', 'object': 'grab1'}
+arm1-1-1
+################### arm1-1-1 {'position': 'arm1-1-1', 'x': '297.787', 'y': '-325.616', 'z': '670.058', 'rx': '-89.181', 'ry': '-0.486', 'rz': '-137.505', 'speed': '50.0'}
+start arm_move service for grab
+demo start
+going to standby point......
+HOME
+end go home
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========grab go inflection points......
+going to grab ready point from rmf......
+already arrive at start point !!!!!! 
+adjusting grab rotate...... 
+waiting1...... 
+rotate angle
+adjusting camera  to center...... 
+success: True
+success: True
+obj_depth= 0.377
+in shift_camera_1_1:res success: True
+rx: 0.0
+ry: 0.0
+rz: 0.277
+r: 0.0
+p: 0.0
+y: 0.0
+in shift_arm:res success: True
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========grab back inflection points......
+[297.787, -325.616, 670.058, -89.181, -0.486, -137.505, 50.0]
+here1
+here2
+going to standby point......
+HOME
+already at standby point......
+grab DONE ^^
+========loosen go inflection points......
+in loosen_arm1_3_1_go
+going to pre_loosen point......
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========loosen back inflection points......
+in loosen_arm1_3_1_back
+already drop it
+going to standby point......
+HOME
+already at standby point......
+loosen DONE ^^
+###################in grab
+{'action': {'class': 'grab', 'object': 'grab_arm1-2-1'}, 'param': {'position': 'arm1-2-1', 'x': '347.039', 'y': '-297.937', 'z': '216.877', 'rx': '-87.716', 'ry': '2.82', 'rz': '-136.969', 'speed': '50.0'}, 'test': 0}
+{'class': 'grab', 'object': 'grab_arm1-2-1'}
+arm1-2-1
+################### arm1-2-1 {'position': 'arm1-2-1', 'x': '347.039', 'y': '-297.937', 'z': '216.877', 'rx': '-87.716', 'ry': '2.82', 'rz': '-136.969', 'speed': '50.0'}
+start arm_move service for grab
+demo start
+going to standby point......
+HOME
+end go home
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========grab go inflection points......
+in grab_arm1_2_1_go
+going to grab ready point from rmf......
+already arrive at start point !!!!!! 
+adjusting grab rotate...... 
+waiting1...... 
+rotate angle
+adjusting camera  to center...... 
+success: True
+success: True
+obj_depth= 0.0
+in shift_camera_1_1:res success: True
+rx: 0.0
+ry: 0.0
+rz: 0.25
+r: 0.0
+p: 0.0
+y: 0.0
+in shift_arm:res success: True
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========grab back inflection points......
+[347.039, -297.937, 216.877, -87.716, 2.82, -136.969, 50.0]
+in grab_arm1_2_1_back
+in grab_arm1_2_1_back inflection_2
+end grab_arm1_2_1_back inflection_2
+going to standby point......
+HOME
+already at standby point......
+grab DONE ^^
+========loosen go inflection points......
+going to pre_loosen point......
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========loosen back inflection points......
+already drop it
+going to standby point......
+HOME
+already at standby point......
+loosen DONE ^^
+^Z
+[1]+  Stopped                 python3 moveRobot_http_server_copy_copy.py
+woosh@R20230831113810:~/catkin_ws/src/demo/scripts$ sudo netstat -tulpn | grep 7070
+tcp        0      0 192.168.1.226:7070      0.0.0.0:*               LISTEN      229959/python3      
+woosh@R20230831113810:~/catkin_ws/src/demo/scripts$ kill -9 229959
+woosh@R20230831113810:~/catkin_ws/src/demo/scripts$ python3 moveRobot_http_server_copy_copy.py 
+[1]+  Killed                  python3 moveRobot_http_server_copy_copy.py
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x01', b'\x80', b'\xf1']
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+here1
+here2
+here3
+goto start point
+ * Serving Flask app 'moveRobot_http_server_copy_copy'
+ * Debug mode: off
+###################in grab
+{'action': {'class': 'grab', 'object': 'grab_arm1-2-1'}, 'param': {'position': 'arm1-2-1', 'x': '347.039', 'y': '-297.937', 'z': '205.877', 'rx': '-87.716', 'ry': '2.82', 'rz': '-136.969', 'speed': '50.0'}, 'test': 0}
+{'class': 'grab', 'object': 'grab_arm1-2-1'}
+arm1-2-1
+################### arm1-2-1 {'position': 'arm1-2-1', 'x': '347.039', 'y': '-297.937', 'z': '205.877', 'rx': '-87.716', 'ry': '2.82', 'rz': '-136.969', 'speed': '50.0'}
+start arm_move service for grab
+demo start
+going to standby point......
+HOME
+end go home
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========grab go inflection points......
+in grab_arm1_2_1_go
+going to grab ready point from rmf......
+already arrive at start point !!!!!! 
+adjusting grab rotate...... 
+waiting1...... 
+start to det color
+rotate angle
+adjusting camera  to center...... 
+success: True
+success: True
+obj_depth= 0.325
+in shift_camera_1_1:res success: True
+rx: 0.0
+ry: 0.0
+rz: 0.225
+r: 0.0
+p: 0.0
+y: 0.0
+in shift_arm:res success: True
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========grab back inflection points......
+[347.039, -297.937, 205.877, -87.716, 2.82, -136.969, 50.0]
+in grab_arm1_2_1_back
+in grab_arm1_2_1_back inflection_2
+end grab_arm1_2_1_back inflection_2
+going to standby point......
+HOME
+already at standby point......
+grab DONE ^^
+###################in grab
+{'action': {'class': 'grab', 'object': 'grab_arm1-2-1'}, 'param': {'position': 'arm1-2-1', 'x': '347.039', 'y': '-297.937', 'z': '205.877', 'rx': '-87.716', 'ry': '2.82', 'rz': '-136.969', 'speed': '50.0'}, 'test': 0}
+{'class': 'grab', 'object': 'grab_arm1-2-1'}
+arm1-2-1
+################### arm1-2-1 {'position': 'arm1-2-1', 'x': '347.039', 'y': '-297.937', 'z': '205.877', 'rx': '-87.716', 'ry': '2.82', 'rz': '-136.969', 'speed': '50.0'}
+start arm_move service for grab
+demo start
+going to standby point......
+HOME
+end go home
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========grab go inflection points......
+in grab_arm1_2_1_go
+going to grab ready point from rmf......
+already arrive at start point !!!!!! 
+adjusting grab rotate...... 
+waiting1...... 
+rotate angle
+adjusting camera  to center...... 
+success: True
+success: True
+obj_depth= 0.34
+in shift_camera_1_1:res success: True
+rx: 0.0
+ry: 0.0
+rz: 0.24000000000000002
+r: 0.0
+p: 0.0
+y: 0.0
+in shift_arm:res success: True
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========grab back inflection points......
+[347.039, -297.937, 205.877, -87.716, 2.82, -136.969, 50.0]
+in grab_arm1_2_1_back
+in grab_arm1_2_1_back inflection_2
+end grab_arm1_2_1_back inflection_2
+going to standby point......
+HOME
+already at standby point......
+grab DONE ^^
+========loosen go inflection points......
+in loosen_arm1_2_1_go
+end loosen_arm1_2_1_go
+going to pre_loosen point......
+response is 
+[b'\t', b'\x10', b'\x03', b'\xe8', b'\x00', b'\x03', b'\x01', b'0']
+========loosen back inflection points......
+in loosen_arm1_2_1_back
+end loosen_arm1_2_1_back
+already drop it
+going to standby point......
+HOME
+already at standby point......
+loosen DONE ^^
+
